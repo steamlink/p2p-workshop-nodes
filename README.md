@@ -126,7 +126,7 @@ Each kit should include:
 4. Make sure all the grounds are connected
 5. Power up using power cable
 
-![SLbirdge_scheme.png](SLbirdge_scheme.png)
+![SLbridge_scheme.png](SLbridge_scheme.png)
 
 #### 4. Interact with nodes using web console
 1. Pressing the button should send a message to the console
